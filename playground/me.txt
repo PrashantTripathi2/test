@@ -1,0 +1,5 @@
+{{#user}}
+Name: Prashant Tripathi
+Skills: HTML, CSS, JS, React.js,Node.js
+Email: ttipathiprashant300@gmail.com
+{{/user}}
